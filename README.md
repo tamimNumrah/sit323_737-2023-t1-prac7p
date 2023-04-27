@@ -5,7 +5,7 @@ username: user
 password: SIT737
 
 
-APIs:
+## APIs:
 Addition: /add?num1=x&num2=y
 Multiplication: /mul?num1=x&num2=y
 Subtraction: /sub?num1=x&num2=y
